@@ -1,5 +1,4 @@
 # Hi 👋
-
 <p align="left">
   <a href="https://www.linkedin.com/in/ashbuk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,13 +16,15 @@
 
 ◦ My hobbies: Linux, music, and constant diving into technology.
 
+---
+
 ## ▶ Current focus for now:
 - Building accessible applications, software architecture, DevOps automation, security.
 - Thoughtful use of AI tools in development, note-taking, and workspace organization.
 
 ## ● TECH STACK
 
-<img align="right" width="280" src="./assets/gnome.png" alt="Coding Gnome">
+<img align="right" width="220" src="https://github.com/user-attachments/assets/57870348-fce4-45c3-b396-d72a9c6b4bd1" alt="Coding Gnome">
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,docker,git,go,nodejs,postgres,redis" alt="Backend stack" />
@@ -32,6 +33,8 @@
 </p>
 
 <br clear="right"/>
+
+---
 
 ![Asher's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshBuk&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshBuk&layout=compact&theme=radical)
