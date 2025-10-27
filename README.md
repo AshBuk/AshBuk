@@ -14,7 +14,7 @@
   </a>
 </p>
 
-◦ My hobbies: Linux, music, and constant diving into technology.
+◦ My hobbies: Linux, music, books and constant diving into technology.
 
 ---
 
