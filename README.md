@@ -15,6 +15,7 @@
 </p>
 
 ◦ My hobbies: Linux, music, books and constant diving into technology.
+I enjoy self-documenting code, appreciate Go’s philosophy and approaches, and stay in touch with web development and its stack.
 
 ---
 
