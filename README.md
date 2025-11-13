@@ -28,9 +28,9 @@ I enjoy self-documenting code, appreciate Go’s philosophy and approaches, and 
 <img align="right" width="220" src="https://github.com/user-attachments/assets/57870348-fce4-45c3-b396-d72a9c6b4bd1" alt="Coding Gnome">
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,go,nodejs,postgres,redis" alt="Backend stack" />
+  <img src="https://skillicons.dev/icons?i=linux,go,docker,git,postgres,redis" alt="Backend stack" />
   <br>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" alt="Frontend stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,react,nextjs,tailwind" alt="Web stack" />
 </p>
 
 <br clear="right"/>
