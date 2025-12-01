@@ -14,7 +14,7 @@
   </a>
 </p>
 
-◦ My hobbies: Linux, music, books and constant diving into technology.
+◦ My hobbies: Linux, music, books and constant diving into technology.  
 I enjoy self-documenting code, appreciate Go’s philosophy and approaches, and stay in touch with web development and its stack.
 
 ---
@@ -38,6 +38,9 @@ I enjoy self-documenting code, appreciate Go’s philosophy and approaches, and 
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshBuk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshBuk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshBuk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshBuk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
