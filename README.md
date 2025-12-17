@@ -29,9 +29,12 @@ I enjoy self-documenting code, appreciate Go’s philosophy and approaches, and 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,go,docker,git,postgres,redis" alt="Backend stack" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,react,nextjs,tailwind" alt="Web stack" />
 </p>
+
+- Backend: Go, PostgreSQL, Redis, REST APIs, AWS
+- Exploring: System Programming, Desktop, Rust, AI integration
+- Infrastructure: Linux, Bash, Docker, Git, CI/CD (GitHub Actions)
+- When needed: Python, Node.js, JS/TS, React, Next.js
 
 <br clear="right"/>
 
