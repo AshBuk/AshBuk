@@ -14,16 +14,13 @@
   </a>
 </p>
 
-◦ My hobbies: Linux, music, books and constant diving into technology.  
-I enjoy self-documenting code, appreciate Go’s philosophy and approaches, and stay in touch with web development and its stack.
+▶ Current focus:
 
----
+Building accessible applications, software architecture, DevOps automation, security.
 
-## ▶ Current focus for now:
-- Building accessible applications, software architecture, DevOps automation, security.
-- Thoughtful use of AI tools in development, note-taking, and workspace organization.
+Thoughtful use of AI tools in development, note-taking, and workspace organization.
 
-## ● TECH STACK
+##
 
 <img align="right" width="220" src="https://github.com/user-attachments/assets/57870348-fce4-45c3-b396-d72a9c6b4bd1" alt="Coding Gnome">
 
