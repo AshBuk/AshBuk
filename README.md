@@ -27,8 +27,6 @@
 
 <br clear="right"/>
 
----
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=AshBuk&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
 </div>
