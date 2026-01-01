@@ -1,4 +1,5 @@
 # Hi 👋
+
 <p align="left">
   <a href="https://www.linkedin.com/in/ashbuk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -14,30 +15,20 @@
   </a>
 </p>
 
-▶ Current focus:
-
-Building accessible applications, software architecture, DevOps automation, security.
-
-Thoughtful use of AI tools in development, note-taking, and workspace organization.
-
-##
-
 <img align="right" width="220" src="https://github.com/user-attachments/assets/57870348-fce4-45c3-b396-d72a9c6b4bd1" alt="Coding Gnome">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,go,docker,git,postgres,redis" alt="Backend stack" />
-</p>
+**Go backend developer** focused on clean architecture, performance, and automation.
 
-- Backend: Go, PostgreSQL, Redis, REST APIs, AWS
-- Exploring: System Programming, Desktop, Rust, AI integration
-- Infrastructure: Linux, Bash, Docker, Git, CI/CD (GitHub Actions)
-- When needed: Python, Node.js, JS/TS, React, Next.js
+**Stack:** Linux · Docker · PostgreSQL · Redis · CI/CD · Cloud-native
+
+**Exploring:** System programming, Rust, desktop apps, practical AI integration
+
+*Secondary:* Python · TypeScript · Node.js · React · Next.js
 
 <br clear="right"/>
 
 ---
 
 <div align="center">
-  <!-- Современный лаконичный график коммитов -->
   <img src="https://streak-stats.demolab.com/?user=AshBuk&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
 </div>
