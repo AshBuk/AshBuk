@@ -25,10 +25,12 @@
 
 *Secondary:* Python · TypeScript · Node.js · React · Next.js
 
-**Maintaining:** <a href="https://copr.fedorainfracloud.org/coprs/ashbuk/Hyprland-Fedora/" target="_blank"><img src="https://img.shields.io/badge/Hyprland-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="COPR Hyprland" /></a> <a href="https://copr.fedorainfracloud.org/coprs/ashbuk/speak-to-ai/" target="_blank"><img src="https://img.shields.io/badge/speak--to--ai-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="COPR speak-to-ai" /></a> on COPR · <a href="https://aur.archlinux.org/account/ashbuk" target="_blank"><img src="https://img.shields.io/badge/AUR-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="AUR Profile" /></a>
-
 <br clear="right"/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=AshBuk&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
 </div>
+
+#
+
+**Maintaining:** <a href="https://copr.fedorainfracloud.org/coprs/ashbuk/Hyprland-Fedora/" target="_blank"><img src="https://img.shields.io/badge/Hyprland-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="COPR Hyprland" /></a> <a href="https://copr.fedorainfracloud.org/coprs/ashbuk/speak-to-ai/" target="_blank"><img src="https://img.shields.io/badge/speak--to--ai-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="COPR speak-to-ai" /></a> on COPR | <a href="https://aur.archlinux.org/account/ashbuk" target="_blank"><img src="https://img.shields.io/badge/AUR-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="AUR Profile" /></a>
