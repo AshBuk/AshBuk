@@ -17,9 +17,9 @@
 
 <img align="right" width="220" src="https://github.com/user-attachments/assets/57870348-fce4-45c3-b396-d72a9c6b4bd1" alt="Coding Gnome">
 
-**Go backend developer** focused on clean architecture, performance, and automation.
+**Software engineer** focused on clean architecture, performance, and automation.
 
-**Stack:** Linux · Docker · PostgreSQL · Redis · CI/CD · Cloud-native
+**Stack:** Go · Linux · Docker · PostgreSQL · Redis · CI/CD · Cloud-native
 
 **Exploring:** System programming, Rust, desktop apps, practical AI integration
 
