@@ -19,7 +19,7 @@
 
 **Software engineer** focused on clean architecture, performance, and automation.
 
-**Stack:** Go · Linux · Docker · PostgreSQL · Redis · CI/CD · Cloud-native
+**Stack:** Go · Linux · Containers · PostgreSQL · Redis · CI/CD · Cloud-native
 
 **Exploring:** System programming, Rust, desktop apps, practical AI integration
 
