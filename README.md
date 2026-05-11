@@ -1,4 +1,11 @@
+<a href="https://ashbuk.dev">
+  <img width="1440" height="660" alt="shalom-banner" src="https://github.com/user-attachments/assets/5dab0d74-77ea-4e36-952b-5dc614cb08ad" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=header" width="100%"/>
+
 <img align="right" width="220" src="https://github.com/user-attachments/assets/57870348-fce4-45c3-b396-d72a9c6b4bd1" alt="Coding Gnome">
+
 
 Software engineer focused on clean architecture, performance, and automation.
 
