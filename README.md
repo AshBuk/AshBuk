@@ -1,5 +1,5 @@
 <a href="https://ashbuk.dev">
-<img width="1440" height="660" alt="shalom-banner-3" src="https://github.com/user-attachments/assets/8add1aab-e410-46b0-ac1b-fd7766a945fc" />
+<img width="1440" height="660" alt="Hello" src="https://github.com/user-attachments/assets/565d1c73-06a1-4af7-bf73-56137defb60d" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=header" width="100%"/>
