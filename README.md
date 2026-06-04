@@ -1,8 +1,6 @@
-<a href="https://ashbuk.dev">
-<img width="1440" height="660" alt="Hello" src="https://github.com/user-attachments/assets/565d1c73-06a1-4af7-bf73-56137defb60d" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=header" width="100%"/>
+<img align="right" width="180![Uploading gnome_w-removebg-preview.png…]()
+![Uploading gnome_w-removebg-preview.png…]()
+" src="https://github.com/user-attachments/assets/57870348-fce4-45c3-b396-d72a9c6b4bd1" alt="Coding Gnome">
 
 ...one goroutine per task.
 
