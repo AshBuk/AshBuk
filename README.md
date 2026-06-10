@@ -2,7 +2,9 @@
 ![Uploading gnome_w-removebg-preview.png…]()
 " src="https://github.com/user-attachments/assets/57870348-fce4-45c3-b396-d72a9c6b4bd1" alt="Coding Gnome">
 
-...one goroutine per task.
+I build tools and apps, mostly for Linux. 
+
+Go backend, cloud-native, and a homelab in the corner of the room.
 
 <br clear="right"/>
 
