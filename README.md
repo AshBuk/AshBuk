@@ -4,7 +4,7 @@
 
 I build tools and apps, mostly for Linux.
 
-Go backend, DevOps, and a homelab humming in the corner.
+Backend, DevOps, and a homelab humming in the corner.
 
 <br clear="right"/>
 
