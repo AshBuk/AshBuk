@@ -2,11 +2,10 @@
 ![Uploading gnome_w-removebg-preview.png…]()
 " src="https://github.com/user-attachments/assets/57870348-fce4-45c3-b396-d72a9c6b4bd1" alt="Coding Gnome">
 
-Night owl - not a morning person. Async-friendly.
-
 I build tools and apps, mostly for Linux.
 
 Backend, DevOps, and a homelab humming in the corner.
+Night owl - not a morning person. Async-friendly.
 
 <br clear="right"/>
 
